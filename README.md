@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gokul
+- 👋 Hi, I’m @Gokul
 - 👀 I’m interested in analytical skills
 - 🌱 I’m currently learning data analysis
 - 📫 How to reach me dharmanagokul225@gmail.com
