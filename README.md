@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gokuldharmana
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning data analyst
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @gokul
+- 👀 I’m interested in analytical skills
+- 🌱 I’m currently learning data analysis
+- 📫 How to reach me dharmanagokul225@gmail.com
 
 <!---
 gokuldharmana/gokuldharmana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
